@@ -369,3 +369,7 @@ $flip($reverse(%user% found a message in a bottle! It says: "Hello from down und
 %user% found a message in a bottle! It smells vaguely of french toast. You lose consciousness and die. 
 %user% found a message in a bottle! It says: "You are awaited in Valhalla"
 %user% found a message in a bottle! When you open it, you see a vision of yourself as an old person, looking back fondly on the past that is your now.
+%user% found a message in a bottle!
+%user% found a message in a bottle!
+%user% found a message in a bottle!
+%user% found a message in a bottle!
